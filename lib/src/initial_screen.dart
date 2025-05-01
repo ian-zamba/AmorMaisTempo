@@ -71,7 +71,7 @@ class _InitialScreenState extends State<InitialScreen> {
                         ),
                       ),
                       SizedBox(width: 10),
-                      Icon(Icons.arrow_forward, color: Colors.white, size: 18),
+                      Icon(Icons.arrow_forward, color: Colors.white, size: 25),
                     ],
                   ),
                 ),
